@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-vvvvvvvvv
-=======
-asdadasdasddasd
->>>>>>> 218434fa3d9315cf0cbd3f68874826edc4c80010
+aaaaaaa
